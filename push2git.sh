@@ -8,4 +8,4 @@ git add .
 
 git commit -m "commit my SPI images to adjebbar/SPI"
 
-git push all
+git push 
