@@ -1,6 +1,6 @@
 #! /bin/bash
 
-
+git rm *
 
 cd /elic/home/adjebbar/CRU_data_obs/SPI_img
 
